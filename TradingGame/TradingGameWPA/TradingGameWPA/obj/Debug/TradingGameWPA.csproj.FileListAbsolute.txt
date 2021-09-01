@@ -1,0 +1,30 @@
+D:\C#\In progress\TradingGameWPA\TradingGameWPA\bin\Debug\TradingGameWPA.exe.config
+D:\C#\In progress\TradingGameWPA\TradingGameWPA\bin\Debug\TradingGameWPA.exe
+D:\C#\In progress\TradingGameWPA\TradingGameWPA\bin\Debug\TradingGameWPA.pdb
+D:\C#\In progress\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.csprojResolveAssemblyReference.cache
+D:\C#\In progress\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.Form1.resources
+D:\C#\In progress\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.Properties.Resources.resources
+D:\C#\In progress\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.csproj.GenerateResource.Cache
+D:\C#\In progress\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.csproj.CoreCompileInputs.cache
+D:\C#\In progress\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.exe
+D:\C#\In progress\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.pdb
+C:\C#\TradingGameWPA\TradingGameWPA\bin\Debug\TradingGameWPA.exe.config
+C:\C#\TradingGameWPA\TradingGameWPA\bin\Debug\TradingGameWPA.exe
+C:\C#\TradingGameWPA\TradingGameWPA\bin\Debug\TradingGameWPA.pdb
+C:\C#\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.csprojResolveAssemblyReference.cache
+C:\C#\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.Form1.resources
+C:\C#\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.Properties.Resources.resources
+C:\C#\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.csproj.GenerateResource.Cache
+C:\C#\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.csproj.CoreCompileInputs.cache
+C:\C#\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.exe
+C:\C#\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.pdb
+E:\TradingGameWPA\TradingGameWPA\bin\Debug\TradingGameWPA.exe.config
+E:\TradingGameWPA\TradingGameWPA\bin\Debug\TradingGameWPA.exe
+E:\TradingGameWPA\TradingGameWPA\bin\Debug\TradingGameWPA.pdb
+E:\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.csprojResolveAssemblyReference.cache
+E:\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.Form1.resources
+E:\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.Properties.Resources.resources
+E:\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.csproj.GenerateResource.cache
+E:\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.csproj.CoreCompileInputs.cache
+E:\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.exe
+E:\TradingGameWPA\TradingGameWPA\obj\Debug\TradingGameWPA.pdb
